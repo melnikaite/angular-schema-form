@@ -1,3 +1,7 @@
+v0.7.13
+-------
+ * fix validation inside ng-repeat
+
 v0.7.11
 -------
  * New front page with a list of add-on:s based on a bower search! Thanks @unicornforce @Dervisevic @davidlgj
